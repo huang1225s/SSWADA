@@ -1,6 +1,6 @@
-# Cross-scene wetland mappingonhyperspectralremotesensingimagesusing adversarial domainadaptation network
+# Cross-scene wetland mapping on hyperspectral remote sensing images using adversarial domain adaptation network
 
-Paper web page: [Cross-scene wetland mappingonhyperspectralremotesensingimagesusing adversarial domainadaptation network](https://www.sciencedirect.com/science/article/abs/pii/S0924271623001909).
+Paper web page: [Cross-scene wetland mapping on hyperspectral remote sensing images using adversarial domain adaptation network](https://www.sciencedirect.com/science/article/abs/pii/S0924271623001909).
 
 Data web page: [Cross-Scene Hyperspectral Remote Sensing Wetland image data](https://zenodo.org/records/8105220).
 
