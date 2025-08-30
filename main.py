@@ -34,7 +34,7 @@ parser.add_argument('--optimizer', type=str, default='momentum', metavar='OP',
                     help='the name of optimizer')
 parser.add_argument('--no-cuda', action='store_true', default=False,
                     help='disables CUDA training')
-parser.add_argument('--seed', type=int, default=1, metavar='S',
+parser.add_argument('--seed', type=int, default=1220, metavar='S',
                     help='random seed (default: 1)')
 parser.add_argument('--patch_size', type=int, default=7,
                     help="Size of the spatial neighbourhood (optional, if "
@@ -351,4 +351,5 @@ if __name__ == '__main__':
                            {'lr': args.lr, 'la': args.la, 'gam': args.gam, 'results': results})
                 print('current best acc:', best_acc)
     print('current best acc:', best_acc)
+
 
